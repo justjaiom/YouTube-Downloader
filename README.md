@@ -2,7 +2,7 @@
 have you ever wanted to downlaod a video on youtube just to be hit by a paywall? This YouTube downloader was made to downlaod high reulution videos for free.
 
 ## About
-This downlaoder uses python libraires such as:
+This downlaoder uses python libraires such as
   * tkinter
   * moviepy
   * pytube
